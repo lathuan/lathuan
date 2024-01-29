@@ -1,0 +1,2 @@
+Name student: thuan
+ GPA: 9.0
